@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorBasico.Server", "BlazorBasico.Server\BlazorBasico.Server.csproj", "{66BAB021-63DE-4978-98EE-64FA26A04C66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorBasico.Server", "BlazorBasico.Server\BlazorBasico.Server.csproj", "{66BAB021-63DE-4978-98EE-64FA26A04C66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorBasico.Client", "BlazorBasico.Client\BlazorBasico.Client.csproj", "{787096DE-EE37-4110-8FFE-074B9B84D501}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorBasico.Client", "BlazorBasico.Client\BlazorBasico.Client.csproj", "{787096DE-EE37-4110-8FFE-074B9B84D501}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorBasico.Shared", "BlazorBasico.Shared\BlazorBasico.Shared.csproj", "{A57193CF-E4C8-431B-9DCC-1AE67AE7FA1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorBasico.Shared", "BlazorBasico.Shared\BlazorBasico.Shared.csproj", "{A57193CF-E4C8-431B-9DCC-1AE67AE7FA1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
