@@ -1,3 +1,6 @@
+<img src="https://www.saindodacaixinha.com.br/content/images/2018/05/wasm3.png" width="480" />
+
+
 # Projeto de demo do Blazor
 
 Tecnologias utilizadas:
@@ -19,3 +22,4 @@ Tecnologias utilizadas:
 Detalhes da implementação disponivel em
 
 [SaindoDaCaixinha - Blazor Primeiros Passos](www.saindodacaixinha.com.br/blazor-primeros-passos)
+
