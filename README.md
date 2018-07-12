@@ -21,5 +21,5 @@ Tecnologias utilizadas:
 
 Detalhes da implementação disponivel em
 
-[SaindoDaCaixinha - Blazor Primeiros Passos](https://www.saindodacaixinha.com.br/blazor-primeros-passos)
+[Bruno Brito - Blazor Primeiros Passos](https://www.brunobrito.net.br/blazor-primeros-passos)
 
